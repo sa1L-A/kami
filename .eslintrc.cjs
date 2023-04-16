@@ -11,6 +11,7 @@ module.exports = {
     'plugin:vue/vue3-recommended',
     'plugin:prettier/recommended',
     'plugin:markdown/recommended',
+    'plugin:storybook/recommended',
   ],
   parserOptions: {
     ecmaVersion: 'latest',
