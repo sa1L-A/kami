@@ -1,9 +1,7 @@
 <template>
-  <HelloWorld msg="Vite + Vue + Typescript" />
+  <div />
 </template>
-<script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue';
-</script>
+<script setup lang="ts"></script>
 <style lang="scss">
 @use '@/styles/boot.scss' as *;
 </style>
